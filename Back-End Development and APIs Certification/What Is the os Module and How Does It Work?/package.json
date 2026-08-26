@@ -1,0 +1,14 @@
+{
+  "name": "os_module",
+  "version": "1.0.0",
+  "main": "os.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damon",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.19.43"
+  }
+}
