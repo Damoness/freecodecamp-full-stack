@@ -1,0 +1,14 @@
+{
+  "name": "crypto_module",
+  "version": "1.0.0",
+  "main": "crypto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damon",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^26.3.0"
+  }
+}
